@@ -1,4 +1,4 @@
-# Tornelo Scoresheet App
+# Tornelo Scoresheet App ![](https://build.appcenter.ms/v0.1/apps/f860007d-5788-4a22-839d-f16a3d7ea242/branches/main/badge)
 
 A Chess Scoresheet App for iOS.
 
